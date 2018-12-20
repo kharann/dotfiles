@@ -1,0 +1,18 @@
+/* Ligatures */
+.mtk26,
+.mtk16,
+.mtk36,
+.mtk39 {
+  font-family: "Fira Code";
+}
+
+/* Keywords, decorators, comments */
+.mtk5,
+.mtk6,
+.mtk8,
+.mtk34,
+.mtki {
+  font-family: "Operator Mono";
+  font-style: italic;
+  font-size: 1em;
+}

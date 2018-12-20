@@ -1,0 +1,475 @@
+{
+	"name": "markdown-extended",
+	"displayName": "Markdown Extended",
+	"description": "Extended syntaxes to built-in markdown & What you see is what you get exporter.",
+	"icon": "images/logo.png",
+	"version": "1.0.3",
+	"publisher": "jebbs",
+	"engines": {
+		"vscode": "^1.23.0"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/qjebbs/vscode-markdown-extended/issues"
+	},
+	"homepage": "https://github.com/qjebbs/vscode-markdown-extended/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/qjebbs/vscode-markdown-extended.git"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onLanguage:markdown",
+		"onCommand:markdownExtended.export",
+		"onCommand:markdownExtended.exportWorkspace",
+		"onCommand:markdownExtended.copy",
+		"onCommand:markdownExtended.copyWithStyle",
+		"onCommand:markdownExtended.pasteAsTable",
+		"onCommand:markdownExtended.formateTable",
+		"onCommand:markdownExtended.toggleBold",
+		"onCommand:markdownExtended.toggleCodeBlock",
+		"onCommand:markdownExtended.toggleCodeInline",
+		"onCommand:markdownExtended.toggleItalics",
+		"onCommand:markdownExtended.toggleSubscript",
+		"onCommand:markdownExtended.toggleOList",
+		"onCommand:markdownExtended.toggleStrikethrough",
+		"onCommand:markdownExtended.toggleUList",
+		"onCommand:markdownExtended.toggleUnderLine",
+		"onCommand:markdownExtended.toggleSuperscript",
+		"onCommand:markdownExtended.toggleBlockQuote",
+		"onCommand:markdownExtended.addColumnRight",
+		"onCommand:markdownExtended.addColumnLeft",
+		"onCommand:markdownExtended.addRowBelow",
+		"onCommand:markdownExtended.addRowAbove",
+		"onCommand:markdownExtended.DeleteColumn",
+		"onCommand:markdownExtended.DeleteRow",
+		"onCommand:markdownExtended.MoveColumnLeft",
+		"onCommand:markdownExtended.MoveColumnRight"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "markdownExtended.export",
+				"title": "%markdownExtended.exportCurrent%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.exportWorkspace",
+				"title": "%markdownExtended.exportWorkspace%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.copy",
+				"title": "%markdownExtended.copy%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.copyWithStyle",
+				"title": "%markdownExtended.copyWithStyle%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.pasteAsTable",
+				"title": "%markdownExtended.pasteAsTable%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.formateTable",
+				"title": "%markdownExtended.formateTable%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleBold",
+				"title": "%markdownExtended.toggleBold%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleCodeBlock",
+				"title": "%markdownExtended.toggleCodeBlock%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleBlockQuote",
+				"title": "%markdownExtended.toggleBlockQuote%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleCodeInline",
+				"title": "%markdownExtended.toggleCodeInline%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleItalics",
+				"title": "%markdownExtended.toggleItalics%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleSubscript",
+				"title": "%markdownExtended.toggleSubscript%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleOList",
+				"title": "%markdownExtended.toggleOList%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleStrikethrough",
+				"title": "%markdownExtended.toggleStrikethrough%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleUList",
+				"title": "%markdownExtended.toggleUList%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleUnderLine",
+				"title": "%markdownExtended.toggleUnderLine%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.toggleSuperscript",
+				"title": "%markdownExtended.toggleSuperscript%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.addColumnRight",
+				"title": "%markdownExtended.addColumnRight%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.addColumnLeft",
+				"title": "%markdownExtended.addColumnLeft%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.addRowBelow",
+				"title": "%markdownExtended.addRowBelow%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.addRowAbove",
+				"title": "%markdownExtended.addRowAbove%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.DeleteColumn",
+				"title": "%markdownExtended.DeleteColumn%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.DeleteRow",
+				"title": "%markdownExtended.DeleteRow%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.MoveColumnLeft",
+				"title": "%markdownExtended.MoveColumnLeft%",
+				"category": "Markdown"
+			},
+			{
+				"command": "markdownExtended.MoveColumnRight",
+				"title": "%markdownExtended.MoveColumnRight%",
+				"category": "Markdown"
+			}
+		],
+		"menus": {
+			"editor/context": [
+				{
+					"when": "editorLangId == markdown",
+					"command": "markdownExtended.export",
+					"group": "markdown"
+				},
+				{
+					"when": "editorLangId == markdown",
+					"command": "markdownExtended.copy",
+					"group": "markdown"
+				},
+				{
+					"when": "editorLangId == markdown",
+					"command": "markdownExtended.copyWithStyle",
+					"group": "markdown"
+				},
+				{
+					"when": "editorLangId == markdown",
+					"command": "markdownExtended.pasteAsTable",
+					"group": "markdown"
+				},
+				{
+					"when": "editorLangId == markdown",
+					"command": "markdownExtended.formateTable",
+					"group": "markdown"
+				}
+			],
+			"explorer/context": [
+				{
+					"command": "markdownExtended.exportWorkspace",
+					"group": "markdown"
+				}
+			]
+		},
+		"keybindings": [
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.pasteAsTable",
+				"key": "ctrl+shift+t ctrl+shift+p"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.formateTable",
+				"key": "ctrl+shift+t ctrl+shift+f"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleBold",
+				"key": "ctrl+b"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleCodeBlock",
+				"key": "shift+alt+`"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleBlockQuote",
+				"key": "ctrl+shift+q"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleCodeInline",
+				"key": "alt+`"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleItalics",
+				"key": "ctrl+i"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleOList",
+				"key": "ctrl+l ctrl+o"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleStrikethrough",
+				"key": "alt+s"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleUList",
+				"key": "ctrl+l ctrl+u"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleUnderLine",
+				"key": "ctrl+u"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleSuperscript",
+				"key": "ctrl+shift+u"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.toggleSubscript",
+				"key": "ctrl+shift+l"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.addColumnRight",
+				"key": "ctrl+shift+t ctrl+shift+r"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.addColumnLeft",
+				"key": "ctrl+shift+t ctrl+shift+l"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.addRowBelow",
+				"key": "ctrl+shift+t ctrl+shift+b"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.addRowAbove",
+				"key": "ctrl+shift+t ctrl+shift+a"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.DeleteColumn",
+				"key": "ctrl+shift+d ctrl+shift+c"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.DeleteRow",
+				"key": "ctrl+shift+d ctrl+shift+r"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.MoveColumnLeft",
+				"key": "alt+left"
+			},
+			{
+				"when": "editorTextFocus && editorLangId == 'markdown'",
+				"command": "markdownExtended.MoveColumnRight",
+				"key": "alt+right"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Markdown Extended Configuration",
+			"properties": {
+				"markdownExtended.puppeteerExecutable": {
+					"type": "string",
+					"default": "",
+					"description": "%markdownExtended.configuration.puppeteerExecutable%"
+				},
+				"markdownExtended.exportOutDirName": {
+					"type": "string",
+					"default": "out",
+					"description": "%markdownExtended.configuration.exportOutDirName%"
+				},
+				"markdownExtended.pdfFormat": {
+					"type": "string",
+					"default": "A4",
+					"enum": [
+						"Letter",
+						"Legal",
+						"Tabloid",
+						"Ledger",
+						"A0",
+						"A1",
+						"A2",
+						"A3",
+						"A4",
+						"A5",
+						"A6"
+					],
+					"description": "%markdownExtended.configuration.pdfFormat%"
+				},
+				"markdownExtended.pdfWidth": {
+					"type": "string",
+					"default": "",
+					"description": "%markdownExtended.configuration.pdfWidth%"
+				},
+				"markdownExtended.pdfHeight": {
+					"type": "string",
+					"default": "",
+					"description": "%markdownExtended.configuration.pdfHeight%"
+				},
+				"markdownExtended.pdfLandscape": {
+					"type": "boolean",
+					"default": false,
+					"description": "%markdownExtended.configuration.pdfLandscape%"
+				},
+				"markdownExtended.pdfMarginTop": {
+					"type": "string",
+					"default": "1.5cm",
+					"description": "%markdownExtended.configuration.pdfMarginTop%"
+				},
+				"markdownExtended.pdfMarginRight": {
+					"type": "string",
+					"default": "1cm",
+					"description": "%markdownExtended.configuration.pdfMarginRight%"
+				},
+				"markdownExtended.pdfMarginBottom": {
+					"type": "string",
+					"default": "1cm",
+					"description": "%markdownExtended.configuration.pdfMarginBottom%"
+				},
+				"markdownExtended.pdfMarginLeft": {
+					"type": "string",
+					"default": "1cm",
+					"description": "%markdownExtended.configuration.pdfMarginLeft%"
+				},
+				"markdownExtended.pdfDisplayHeaderFooter": {
+					"type": "boolean",
+					"default": true,
+					"description": "%markdownExtended.configuration.pdfDisplayHeaderFooter%"
+				},
+				"markdownExtended.pdfPageRanges": {
+					"type": "string",
+					"default": "",
+					"description": "%markdownExtended.configuration.pdfPageRanges%"
+				},
+				"markdownExtended.pdfHeaderTemplate": {
+					"type": "string",
+					"default": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span class='title'></span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span class='date'></span></div>",
+					"description": "%markdownExtended.configuration.pdfHeaderTemplate%"
+				},
+				"markdownExtended.pdfFooterTemplate": {
+					"type": "string",
+					"default": "<div style=\"font-size: 9px; margin: 0 auto;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
+					"description": "%markdownExtended.configuration.pdfFooterTemplate%"
+				},
+				"markdownExtended.imageQuality": {
+					"type": "integer",
+					"default": 100,
+					"description": "%markdownExtended.configuration.imageQuality%"
+				},
+				"markdownExtended.imageOmitBackground": {
+					"type": "boolean",
+					"default": false,
+					"description": "%markdownExtended.configuration.imageOmitBackground%"
+				},
+				"markdownExtended.tocLevels": {
+					"type": "array",
+					"default": [
+						1,
+						2,
+						3
+					],
+					"description": "%markdownExtended.configuration.tocLevels%"
+				}
+			}
+		},
+		"markdown.markdownItPlugins": true,
+		"markdown.previewStyles": [
+			"styles/markdown-it-admonition.css",
+			"styles/markdown-it-kbd.css"
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/markdown-it": "0.0.4",
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^7.0.43",
+		"markdown-it": "^8.3.2",
+		"typescript": "^3.1.4",
+		"vscode": "^1.1.21"
+	},
+	"dependencies": {
+		"@types/puppeteer": "^1.9.0",
+		"clipboardy": "^1.2.3",
+		"highlight.js": "^9.12.0",
+		"markdown-it-abbr": "^1.0.4",
+		"markdown-it-attrs": "^1.1.0",
+		"markdown-it-checkbox": "^1.1.0",
+		"markdown-it-container": "^2.0.0",
+		"markdown-it-deflist": "^2.0.3",
+		"markdown-it-footnote": "^3.0.1",
+		"markdown-it-kbd": "^1.1.0",
+		"markdown-it-sub": "^1.0.0",
+		"markdown-it-sup": "^1.0.0",
+		"markdown-it-table-of-contents": "^0.3.2",
+		"markdown-it-underline": "^1.0.1",
+		"node-yaml": "^3.1.1",
+		"papaparse": "^4.3.7",
+		"puppeteer": "^1.9.0"
+	},
+	"__metadata": {
+		"id": "41c03ed0-b7b8-4476-8d01-926a7e041e69",
+		"publisherId": "fa53557f-5e03-4131-afa8-dad5d13500aa",
+		"publisherDisplayName": "jebbs"
+	}
+}
