@@ -1,0 +1,104 @@
+[colors]
+background= #2b2440
+foreground= #f5cab9
+cursor= #f5cab9
+
+color0= #2b2440
+color1= #FD5D79
+color2= #EA907D
+color3= #5C5F88
+color4= #964A81
+color5= #359AA9
+color6= #12F5DD
+color7= #f5cab9
+color8= #ab8d81
+color9= #FD5D79
+color10= #EA907D
+color11= #5C5F88
+color12= #964A81
+color13= #359AA9
+color14= #12F5DD
+color15= #f5cab9
+
+adapta-blue = ${self.color3}
+adapta-red = ${self.color1}
+adapta-yellow = ${self.color2}
+adapta-foreground = ${self.foreground}
+adapta-foreground-dark =${self.color10}
+adapta-background = ${self.background}
+white = #ffffff
+ 
+[sizes]
+padding = 3
+ 
+[bar/nas]
+override-redirect = true
+;wm-restack = i3
+ 
+enable-ipc = true
+modules-left = i3 
+scroll-up = i3-msg workspace prev_on_output
+scroll-down = i3-msg workspace next_on_output
+ 
+width = 40%
+height = 24
+offset-x = 0
+offset-y = 0
+bottom = false
+ 
+background = ${colors.adapta-background}
+foreground = ${colors.adapta-foreground}
+font-0 = Source Sans Pro:weight=bold:size=10;0
+font-1 = Font Awesome 5 Free:pixelsize=10;3
+font-2 = Font Awesome 5 Free Solid:pixelsize=10;3
+font-3 = Font Awesome 5 Brands:pixelsize=10;3
+ 
+;overline-size = 2
+underline-size = 2
+border-top-size = 0
+ 
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+index-sort = false
+wrapping-scroll = false
+pin-workspaces = true
+ 
+; mode = Active i3 mode
+label-mode-foreground = ${colors.foreground}
+label-mode-padding = ${sizes.padding}
+label-mode-background = ${colors.background}
+ 
+; focused = Active workspace on focused monitor
+label-focused = %name%
+label-focused-foreground = ${colors.background}
+label-focused-padding = ${sizes.padding}
+label-focused-background = ${colors.color2}
+ 
+; unfocused = Inactive workspace on any monitor
+label-unfocused = %name%
+label-unfocused-foreground = ${colors.foreground}
+label-unfocused-padding = ${sizes.padding}
+label-unfocused-background = ${colors.background}
+
+; visible = Active workspace on unfocused monitor
+label-visible = %name%
+label-visible-foreground = ${colors.foreground}
+label-visible-padding = ${sizes.padding}
+label-visible-background = ${colors.background}
+
+; urgent = Workspace with urgency hint set
+label-urgent = %name%
+label-urgent-foreground = ${colors.foreground}
+label-urgent-padding = ${sizes.padding}
+label-urgent-background = ${colors.color9}
+
+[module/xwindow]
+type = internal/xwindow
+format-padding = 12
+label = %title%
+label-maxlen = 100
+label-underline = ${colors.adapta-background}
+ 
+[settings]
+screenchange-reload = true
