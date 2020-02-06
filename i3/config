@@ -23,14 +23,14 @@ exec --no-startup-id nm-applet
 exec --no-startup-id sudo mount -a
 
 #Composite manager, also removes tearing
-exec --no-startup-id compton --xrender-sync-fence
+exec --no-startup-id compton --xrender-sync-fence --no-respect-prop-shadow
 
 #Launch Polybar where appropriate:
-exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id bash ~/.config/polybar/launch.sh
 
 #Add wallpaper:
 exec --no-startup-id feh --bg-scale ~/.config/wall.jpg
-exec_always --no-startup-id wal -i ~/.config/wall.jpg 
+#exec_always --no-startup-id wal -i ~/.config/wall.png
 
 #Remaps the caps lock button to escape and uses the US international keyboard with dead keys
 #exec_always --no-startup-id setxkbmap -option caps:escape
