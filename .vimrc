@@ -38,7 +38,6 @@ filetype plugin on
 
 set completeopt=longest,menuone
 set mouse=
-set cursorcolumn
 set scrolloff=3
 set showmatch
 set updatetime=1000
@@ -107,6 +106,7 @@ set background=dark
 colorscheme gruvbox
 
 set termguicolors
+hi Normal guibg=NONE ctermbg=NONE
 
 let g:airline_powerline_fonts = 0
 let g:airline_theme = 'gruvbox'
