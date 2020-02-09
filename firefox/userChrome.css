@@ -131,7 +131,7 @@ html#main-window {
 
 /* Hacky way to make the url input bar centered */
 input#urlbar-input {
-	caret-color: transparent !important;
+	caret-color: #ffe0b2 !important;
 	font-family: var(--urlbar-text-font) !important;
 	font-size: var(--urlbar-text-size) !important;
 	font-weight: var(--urlbar-text-weight) !important;
