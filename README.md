@@ -19,6 +19,10 @@ VSCode: Modification of [jdinhify](https://github.com/jdinhify/vscode-theme-gruv
 
 Vim: Also Gruvbox with modification to background color
 
+Firefox: Modification of [mut-ex`s firefox userChrome](https://github.com/mut-ex/minimal-functional-fox)
+
+Homepage: [Nighttab](https://github.com/zombieFox/nightTab)
+
 
 
 Screenshots:
