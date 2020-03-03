@@ -1,0 +1,1 @@
+/home/anhkha/.config/i3/
