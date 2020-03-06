@@ -119,7 +119,7 @@ bindsym $mod+Shift+a		exec pavucontrol
 bindsym $mod+s				gaps inner current plus 5
 bindsym $mod+Shift+s		gaps inner current minus 5
 
-bindsym $mod+d				exec rofi -show-icons -icon-theme "Papirus" -show drun -font "Fira Code 12"
+bindsym $mod+d				exec rofi -show-icons -icon-theme "Papirus" -show drun -font "FantasqueSansMono NF Bold 14" -theme miami
 bindsym $mod+Shift+d		gaps inner current set 0; gaps outer current set 0
 
 bindsym $mod+f				fullscreen toggle
@@ -367,8 +367,8 @@ bindsym XF86Search				exec $BROWSER https://duckduckgo.com
 #bindsym XF86Finance			exec
 #bindsym XF86Game				exec
 bindsym XF86Shop				exec $BROWSER https://ebay.com
-bindsym XF86MonBrightnessDown	exec --no-startup-id xbacklight -dec 15
-bindsym XF86MonBrightnessUp		exec --no-startup-id xbacklight -inc 15
+#bindsym XF86MonBrightnessDown	exec --no-startup-id xbacklight -dec 15
+#bindsym XF86MonBrightnessUp		exec --no-startup-id xbacklight -inc 15
 bindsym XF86AudioMedia			exec $music
 bindsym XF86Display				exec --no-startup-id arandr
 #bindsym XF86KbdLightOnOff		exec

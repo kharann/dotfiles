@@ -1,4 +1,4 @@
-; vim:ft=dosini
+; Author: Kharann
 ;=====================================================
 ;
 ;   To learn more about how to configure Polybar
@@ -63,7 +63,7 @@ font-1 = Hack Nerd Font:style=Regular:size=13;3
 
 modules-left = i3
 modules-center = date time 
-modules-right = spotify volume battery0 battery1 powermenu
+modules-right = xkeyboard volume battery0 battery1 powermenu
 
 tray-position = right
 tray-padding = 0
@@ -79,28 +79,6 @@ wm-restack = i3
 scroll-up = i3wm-wsnext
 scroll-down = i3wm-wsprev
 
-
-
-[module/filesystem]
-type = internal/fs
-interval = 25
-
-mount-0 = /
-
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.foreground-alt}
-
-[module/home]
-type = internal/fs
-interval = 25
-
-mount-0 = /home
-
-label-mounted = %{F#0a81f5}~%{F-}: %percentage_used%%
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.foreground-alt}
-
 [module/i3]
 type = internal/i3
 format = <label-state> <label-mode>
@@ -110,7 +88,7 @@ wrapping-scroll = false
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
 
-label-mode-padding = 2
+label-mode-padding = 1
 label-mode-foreground = #000
 label-mode-background = ${colors.primary}
 
@@ -118,11 +96,11 @@ label-mode-background = ${colors.primary}
 label-focused = %index%
 label-focused-background = ${colors.secondary}
 label-focused-underline= ${colors.primary}
-label-focused-padding = 2
+label-focused-padding = 1
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
-label-unfocused-padding = 2
+label-unfocused-padding = 1
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
@@ -134,6 +112,11 @@ label-visible-padding = ${self.label-focused-padding}
 label-urgent = %index%!
 label-urgent-background = ${colors.alert}
 label-urgent-padding = 2
+
+[module/xkeyboard]
+type = internal/xkeyboard
+format = <label-layout> <label-indicator>
+label-indicator = %name%
 
 [module/xbacklight]
 type = internal/xbacklight

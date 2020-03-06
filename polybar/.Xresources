@@ -37,12 +37,10 @@
 *color7:       #fff9c4
 
 ! Text Secondary (normal - focus)
-*color12:      #4e342e
-*color15:      #3e2723
+*color12:      #ca3150
+*color15:      #5c6051
 
 ! Text Error
-*color11:      #212121
+*color11:      #d8ffa1
 
-st.font: SpaceMono Nerd Font:style=Regular:pixelsize=13
-st.opacity: 250
 
