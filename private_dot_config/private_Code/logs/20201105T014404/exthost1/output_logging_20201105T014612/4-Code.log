@@ -1,0 +1,8 @@
+[Running] python -u "/home/kharann/.local/share/chezmoi/python.py"
+Traceback (most recent call last):
+  File "/home/kharann/.local/share/chezmoi/python.py", line 1, in <module>
+    lol
+NameError: name 'lol' is not defined
+
+[Done] exited with code=1 in 0.061 seconds
+

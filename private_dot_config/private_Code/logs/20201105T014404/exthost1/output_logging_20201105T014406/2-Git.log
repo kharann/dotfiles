@@ -1,0 +1,154 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/kharann/.local/share/chezmoi
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :dot_bashrc
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git show --textconv :dot_bashrc
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git show --textconv :python.py
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/python.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dot_bashrc
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git show --textconv :dot_bashrc
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git show --textconv :dot_bashrc
+> git symbolic-ref --short HEAD
+> git rev-parse awesomewm
+> git rev-parse --symbolic-full-name awesomewm@{u}
+fatal: no upstream configured for branch 'awesomewm'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse awesomewm
+> git rev-parse --symbolic-full-name awesomewm@{u}
+fatal: no upstream configured for branch 'awesomewm'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:dot_bashrc
+> git ls-tree -l HEAD -- /home/kharann/.local/share/chezmoi/dot_bashrc
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse awesomewm
+> git rev-parse --symbolic-full-name awesomewm@{u}
+fatal: no upstream configured for branch 'awesomewm'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git cat-file -s a355b0cd3267334cbec1a524ec024d59d5b5e0b2
+> git show --textconv :dot_bashrc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse awesomewm
+> git rev-parse --symbolic-full-name awesomewm@{u}
+> git rev-list --left-right awesomewm...refs/remotes/origin/awesomewm
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :dot_bashrc
+> git ls-files --stage -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git cat-file -s a355b0cd3267334cbec1a524ec024d59d5b5e0b2
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/kharann/.local/share/chezmoi/dot_bashrc
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

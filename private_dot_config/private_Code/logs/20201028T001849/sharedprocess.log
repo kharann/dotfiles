@@ -1,0 +1,35 @@
+[2020-10-28 00:18:52.384] [sharedprocess] [info] main {"machineId":"7f7f1f933aababbf4bc40e796cac1ed3e7d53da17b64ca797b7a60dc4c637d72","windowId":2}
+[2020-10-28 00:18:52.410] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kharann/.config/Code/User/snippets'
+[2020-10-28 00:19:32.396] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-28 00:21:55.117] [sharedprocess] [info] Installing extension: sumneko.lua
+[2020-10-28 00:21:56.080] [sharedprocess] [info] Downloaded extension: sumneko.lua undefined
+[2020-10-28 00:21:56.505] [sharedprocess] [info] Extracted extension to /home/kharann/.vscode/extensions/.sumneko.lua-0.21.6: sumneko.lua
+[2020-10-28 00:21:56.506] [sharedprocess] [info] Renamed to /home/kharann/.vscode/extensions/sumneko.lua-0.21.6
+[2020-10-28 00:21:56.506] [sharedprocess] [info] Installation completed. sumneko.lua
+[2020-10-28 00:21:56.509] [sharedprocess] [info] Extensions installed successfully: sumneko.lua
+[2020-10-28 00:22:00.259] [sharedprocess] [info] Installing extension: keyring.lua
+[2020-10-28 00:22:00.731] [sharedprocess] [info] Downloaded extension: keyring.lua undefined
+[2020-10-28 00:22:00.741] [sharedprocess] [info] Extracted extension to /home/kharann/.vscode/extensions/.keyring.lua-0.0.9: keyring.lua
+[2020-10-28 00:22:00.742] [sharedprocess] [info] Renamed to /home/kharann/.vscode/extensions/keyring.lua-0.0.9
+[2020-10-28 00:22:00.742] [sharedprocess] [info] Installation completed. keyring.lua
+[2020-10-28 00:22:00.743] [sharedprocess] [info] Extensions installed successfully: keyring.lua
+[2020-10-28 00:22:03.839] [sharedprocess] [info] Uninstalling extension: sumneko.lua
+[2020-10-28 00:22:03.879] [sharedprocess] [info] Successfully uninstalled extension: sumneko.lua
+[2020-10-28 00:22:15.337] [sharedprocess] [info] Installing extension: trixnz.vscode-lua
+[2020-10-28 00:22:15.778] [sharedprocess] [info] Downloaded extension: trixnz.vscode-lua undefined
+[2020-10-28 00:22:15.977] [sharedprocess] [info] Extracted extension to /home/kharann/.vscode/extensions/.trixnz.vscode-lua-0.12.4: trixnz.vscode-lua
+[2020-10-28 00:22:15.977] [sharedprocess] [info] Renamed to /home/kharann/.vscode/extensions/trixnz.vscode-lua-0.12.4
+[2020-10-28 00:22:15.977] [sharedprocess] [info] Installation completed. trixnz.vscode-lua
+[2020-10-28 00:22:15.978] [sharedprocess] [info] Extensions installed successfully: trixnz.vscode-lua
+[2020-10-28 00:27:57.197] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-10-28 00:27:57.733] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2020-10-28 00:27:57.785] [sharedprocess] [info] Extracted extension to /home/kharann/.vscode/extensions/.vscodevim.vim-1.17.1: vscodevim.vim
+[2020-10-28 00:27:57.786] [sharedprocess] [info] Renamed to /home/kharann/.vscode/extensions/vscodevim.vim-1.17.1
+[2020-10-28 00:27:57.786] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-10-28 00:27:57.788] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2020-10-28 00:33:13.637] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2020-10-28 00:33:14.188] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner undefined
+[2020-10-28 00:33:14.316] [sharedprocess] [info] Extracted extension to /home/kharann/.vscode/extensions/.formulahendry.code-runner-0.11.1: formulahendry.code-runner
+[2020-10-28 00:33:14.316] [sharedprocess] [info] Renamed to /home/kharann/.vscode/extensions/formulahendry.code-runner-0.11.1
+[2020-10-28 00:33:14.317] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2020-10-28 00:33:14.319] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner

@@ -1,0 +1,35 @@
+[Desktop Entry]
+Type=Application
+Name=Runner
+TryExec=lxqt-runner
+Exec=lxqt-runner
+OnlyShowIn=LXQt;
+X-LXQt-Module=true
+
+Name[ar]=المُطْلِق
+Name[cs]=Spouštěč
+Name[da]=Programstarter
+Name[de]=Anwendungsstarter
+Name[el]=Εκτελεστής
+Name[eo]=Rulilo
+Name[es]=Lanzador de aplicaciones
+Name[es_VE]=Ejecutor
+Name[eu]=Abiarazlea
+Name[fi]=Käynnistin
+Name[fr]=Lanceur
+Name[hu]=Indító
+Name[it_IT]=Runner
+Name[ja]=ランナー
+Name[lt]=Paleidiklis
+Name[nl]=Starter
+Name[pl_PL]=Runner
+Name[pt]=Runner
+Name[pt_BR]=Executor
+Name[ru]=бегунок
+Name[ru_RU]=Запускалка программ
+Name[sl]=Zaganjalnik
+Name[th_TH]=กล่องป้อนคำสั่ง
+Name[tr]=Çalıştırıcı
+Name[uk]=Запускач
+Name[zh_CN]=启动器
+Name[zh_TW]=快速執行

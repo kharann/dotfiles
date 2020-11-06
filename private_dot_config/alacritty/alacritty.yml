@@ -1,0 +1,9 @@
+shell:
+  program: /usr/bin/zsh
+
+font:
+  size: 11
+  normal:
+    family: Cascadia Mono #FantasqueSansMono Nerd Font
+    style: Regular
+

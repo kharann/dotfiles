@@ -1,0 +1,805 @@
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/definition failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+[Error - 1:06:37 AM] Request textDocument/foldingRange failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at /home/kharann/.vscode/extensions/sumneko.lua-0.21.6/client/node_modules/vscode-languageclient/lib/common/client.js:2251:28
+	at async Promise.all (index 0)
+...ensions/sumneko.lua-0.21.6/server/script/async/proto.lua:19: attempt to index a nil value (local 'line')
+stack traceback:
+	...ensions/sumneko.lua-0.21.6/server/script/async/proto.lua:19: in upvalue 'readProtoHead'
+	...ensions/sumneko.lua-0.21.6/server/script/async/proto.lua:48: in local 'readProto'
+	...ensions/sumneko.lua-0.21.6/server/script/async/proto.lua:60: in local 'f'
+	[string "ID             = 1..."]:23: in function <[string "ID             = 1..."]:10>
+	[C]: in function 'xpcall'
+	[string "ID             = 1..."]:28: in main chunk
+	[C]: in ?
+stack traceback:
+	.../extensions/sumneko.lua-0.21.6/server/script/service.lua:1069: in method 'listen'
+	...nn/.vscode/extensions/sumneko.lua-0.21.6/server/main.lua:23: in main chunk
+	[C]: in ?

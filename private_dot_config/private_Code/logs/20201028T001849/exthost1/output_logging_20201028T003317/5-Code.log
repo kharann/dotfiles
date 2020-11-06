@@ -1,0 +1,20 @@
+[Running] lua "/home/kharann/.config/awesome/keybindings.lua"
+/bin/sh: lua: command not found
+
+[Done] exited with code=127 in 0.011 seconds
+
+[Running] lua "/home/kharann/.config/awesome/keybindings.lua"
+lua: /home/kharann/.config/awesome/keybindings.lua:1: <name> expected near '('
+
+[Done] exited with code=1 in 0.009 seconds
+
+[Running] lua "/home/kharann/.config/awesome/testing.lua"
+table: 0x557f514c9fe0
+
+[Done] exited with code=0 in 0.009 seconds
+
+[Running] lua "/home/kharann/.config/awesome/testing.lua"
+1
+
+[Done] exited with code=0 in 0.025 seconds
+
