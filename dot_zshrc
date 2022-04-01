@@ -1,5 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=/usr/bin/go:/home/kharann/go/bin:/home/kharann/.local/share/gem/ruby/3.0.0/bin:$HOME/.pyenv/bin:/home/kharann/.local/bin:$HOME/.poetry/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/kharann/.oh-my-zsh"
@@ -68,7 +69,7 @@ ZSH_THEME="spaceship"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git ssh-agent zsh-z zsh-nvm)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -97,3 +98,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+SPACESHIP_DIR_TRUNC_REPO=false
+
+eval $(thefuck --alias)
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
