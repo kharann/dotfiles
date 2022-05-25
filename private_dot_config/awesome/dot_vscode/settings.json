@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "globalkeys",
+        "editor",
+        "terminal",
+        "keybinding",
+        "getKeybinding"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ]
+}

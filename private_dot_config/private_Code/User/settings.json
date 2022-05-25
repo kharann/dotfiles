@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'Cascadia Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "terminal.integrated.fontFamily": "'FantasqueSansMono Nerd Font Mono'",
+    "terminal.integrated.fontSize": 18
+}

@@ -1,0 +1,2 @@
+[2020-10-28 00:18:16.152] [sharedprocess] [info] main {"machineId":"7f7f1f933aababbf4bc40e796cac1ed3e7d53da17b64ca797b7a60dc4c637d72","windowId":2}
+[2020-10-28 00:18:16.178] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kharann/.config/Code/User/snippets'

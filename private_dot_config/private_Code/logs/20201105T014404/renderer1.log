@@ -1,0 +1,8 @@
+[2020-11-05 01:45:12.355] [renderer1] [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2020-11-05 01:45:31.140] [renderer1] [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
